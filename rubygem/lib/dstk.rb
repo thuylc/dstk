@@ -12,7 +12,7 @@ module DSTK
   class DSTK
     def initialize(options = {})
       default_options = {
-        :api_base => 'http://www.datasciencetoolkit.org',
+        :api_base => 'http://dstk.britecorepro.com',
         :check_version => true,
       }
 
